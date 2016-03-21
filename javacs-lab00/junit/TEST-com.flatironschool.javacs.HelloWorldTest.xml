@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Devang" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.106" timestamp="2016-03-19T23:12:00">
+<testsuite errors="0" failures="0" hostname="Devang" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.098" timestamp="2016-03-21T00:14:19">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.SYSTEMROOT" value="C:\WINDOWS" />
@@ -39,6 +39,7 @@
     <property name="user.timezone" value="" />
     <property name="env.TEMP" value="C:/Users/Devang/AppData/Local/Temp" />
     <property name="sun.arch.data.model" value="64" />
+    <property name="env.!::" value="::\" />
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_74\jre\lib\endorsed" />
     <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_74\bin\java.exe" />
     <property name="sun.cpu.isalist" value="amd64" />
@@ -74,8 +75,8 @@
     <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_74" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
     <property name="env.TERM" value="cygwin" />
-    <property name="env.PROGRAMFILES" value="C:\Program Files" />
     <property name="env.TMP" value="C:/Users/Devang/AppData/Local/Temp" />
+    <property name="env.PROGRAMFILES" value="C:\Program Files" />
     <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="sun.stdout.encoding" value="cp437" />
@@ -83,22 +84,22 @@
     <property name="user.home" value="C:\Users\Devang" />
     <property name="target" value="1.6" />
     <property name="env.COMMONPROGRAMFILES" value="C:\Program Files\Common Files" />
-    <property name="env.SESSIONNAME" value="Console" />
     <property name="env.OLDPWD" value="c:/" />
+    <property name="env.SESSIONNAME" value="Console" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_74\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\Devang\bin;.;C:\RailsInstaller\Git\local\bin;C:\RailsInstaller\Git\mingw\bin;C:\RailsInstaller\Git\bin;c:\ProgramData\Oracle\Java\javapath;c:\Python27\;c:\Python27\Scripts;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Windows Live\Shared;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files (x86)\SMLNJ\bin\;c:\Program Files (x86)\Skype\Phone\;C:\RailsInstaller\Git\cmd;c:\RailsInstaller\Ruby2.2.0\bin;c:\Users\Devang\AppData\Local\atom\bin;c:\Program Files (x86)\Google\google_appengine\;c:\Program Files\Java\jdk1.8.0_74;c:\Program Files\Ant\apache-ant-1.9.6\bin;c:\Program Files\Java\jdk1.8.0_74\bin;.;." />
     <property name="java.vendor.url" value="http://java.oracle.com/" />
     <property name="env.NUMBER_OF_PROCESSORS" value="4" />
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_74\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\Devang\bin;.;C:\RailsInstaller\Git\local\bin;C:\RailsInstaller\Git\mingw\bin;C:\RailsInstaller\Git\bin;c:\ProgramData\Oracle\Java\javapath;c:\Python27\;c:\Python27\Scripts;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Windows Live\Shared;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files (x86)\SMLNJ\bin\;c:\Program Files (x86)\Skype\Phone\;C:\RailsInstaller\Git\cmd;c:\RailsInstaller\Ruby2.2.0\bin;c:\Users\Devang\AppData\Local\atom\bin;c:\Program Files (x86)\Google\google_appengine\;c:\Program Files\Java\jdk1.8.0_74;c:\Program Files\Ant\apache-ant-1.9.6\bin;c:\Program Files\Java\jdk1.8.0_74\bin;.;." />
-    <property name="env.COMMONPROGRAMFILES(X86)" value="C:\Program Files (x86)\Common Files" />
     <property name="env.PSMODULEPATH" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.COMMONPROGRAMFILES(X86)" value="C:\Program Files (x86)\Common Files" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\junit\TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\junitvmwatcher1179747540665268201.properties propsfile=c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\junit2519801782171382986.properties" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
     <property name="java.class.path" value="c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\bin;c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\lib\junit-4.12.jar;c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\lib\hamcrest-core-1.3.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant-launcher.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant-junit.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\junit\TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\junitvmwatcher265260967362145819.properties propsfile=c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU\javacs-lab00\junit332126696338593067.properties" />
     <property name="env.PROGRAMW6432" value="C:\Program Files" />
-    <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)" />
     <property name="ant.file.type.JavaCS" value="file" />
+    <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
     <property name="env.LOGONSERVER" value="\\MicrosoftAccount" />
@@ -106,8 +107,8 @@
     <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
     <property name="java.vm.specification.version" value="1.8" />
     <property name="env.COMMONPROGRAMW6432" value="C:\Program Files\Common Files" />
-    <property name="sun.os.patch.level" value="" />
     <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
     <property name="debuglevel" value="source,lines,vars" />
     <property name="env.HOME" value="c:/Users/Devang" />
     <property name="env.ANT_HOME" value="C:\Program Files\Ant\apache-ant-1.9.6" />
@@ -116,13 +117,13 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
     <property name="env.COMSPEC" value="C:\WINDOWS\system32\cmd.exe" />
     <property name="env.PROGRAMDATA" value="C:\ProgramData" />
-    <property name="os.arch" value="amd64" />
-    <property name="env.ANT_CMD_LINE_ARGS" value=" test -buildfile javacs-lab00/build.xml" />
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" test -buildfile javacs-lab00/build.xml" />
+    <property name="os.arch" value="amd64" />
     <property name="env.PLINK_PROTOCOL" value="ssh" />
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_74\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
-    <property name="user.dir" value="c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU" />
     <property name="env.LOCALAPPDATA" value="C:\Users\Devang\AppData\Local" />
+    <property name="user.dir" value="c:\Users\Devang\Desktop\Code U Stuff\cs-java-hello-world-lab-codeU" />
     <property name="env.INPUTRC" value="C:/RailsInstaller/Git/etc/inputrc" />
     <property name="line.separator" value="&#xd;&#xa;" />
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
